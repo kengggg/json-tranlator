@@ -31,3 +31,9 @@ Run the script:
 ```bash
 python3 translate.py
 ```
+
+# Todo
+
+- [ ] Clean up all language hard codes into command line arguments
+- [ ] Add support for translating multiple JSON files
+- [ ] Add support for translating JSON files in a directory
